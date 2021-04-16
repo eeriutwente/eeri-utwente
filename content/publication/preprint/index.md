@@ -40,6 +40,7 @@ publication_types:
   - "3"
 authors:
   - clarastegehuis
+  - Lotte Weedage
 publication: ""
 featured: false
 tags:
@@ -75,9 +76,8 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)"
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: "#"
 url_code: "#"
 doi: ""
 ---
- 
