@@ -1,6 +1,6 @@
 ---
 # Display name
-title: suzanbayhan
+title: Suzan Bayhan
 
 # Username (this should match the folder name)
 authors:
@@ -15,7 +15,7 @@ role: Assistant Professor of Computer Science
 # Organizations/Affiliations
 organizations:
 - name: University of Twente
-  url: ""
+  url: "https://people.utwente.nl/s.bayhan"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include wireless communications and networking. 
