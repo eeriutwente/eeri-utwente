@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Assistant Professor of Mathematics
 
 # Organizations/Affiliations
 organizations:
