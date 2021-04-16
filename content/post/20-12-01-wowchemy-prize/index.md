@@ -3,7 +3,7 @@ title: EERI project has just started!
 date: 2020-09-01
 ---
 
-We are very happy to start working on EERI projech!
+We are very happy to start working on EERI project!
 
 <!--more-->
 
