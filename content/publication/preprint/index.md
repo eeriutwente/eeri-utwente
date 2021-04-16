@@ -1,65 +1,83 @@
 ---
-title: "An example preprint / working paper"
-authors:
-- admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+title: Degree distributions in AB random geometric graphs
+abstract: >-
+  In this paper, we provide degree distributions for AB random geometric
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+  graphs, in which points of type A connect to the closest k points of type B.
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+  The motivating example to derive such degree distributions is in 5G wireless
 
-# Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+  networks with multi-connectivity, where users connect to their closest k base
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+  stations. In this setting, it is important to know how many users a particular
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+  base station serves, which gives the degree of that base station. To obtain
 
-tags:
-- Source Themes
-featured: false
+  these degree distributions, we investigate the distribution of area sizes of the
 
-links:
-- name: Custom Link
-  url: http://example.org
+  k−th order Voronoi cells of B-points. Assuming that the A-points are Poisson
+
+  distributed, we investigate the amount of users connected to a certain B-point,
+
+  which is equal to the degree of this point. In the simple case where the Bpoints are placed in an hexagonal grid, we show that all k-th order Voronoi
+
+  areas are equal and thus all degrees follow a Poisson distribution. However,
+
+  this observation does not hold for Poisson distributed B-points, for which we
+
+  show that the degree distribution follows a compound Poisson-Erlang distribution in the 1-dimensional case. We then approximate the degree distribution
+
+  in the 2-dimensional case with a compound Poisson-Gamma degree distribution and show that this one-parameter fit performs well for different values
+
+  of k. Moreover, we show that for increasing k, these degree distributions become more concentrated around the mean. This means that k-connected AB
+
+  random graphs balance the loads of B-type nodes more evenly as k increases.
+
+  Finally, we provide a case study on real data of base stations.
+slides: null
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+publication_types:
+  - "3"
+authors:
+  - clarastegehuis
+publication: ""
+featured: false
+tags:
+  - Source Themes
+projects: []
+summary: >-
+  In this paper, we provide degree distributions for AB random geometric
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+  graphs, in which points of type A connect to the closest k points of type B.
+
+  The motivating example to derive such degree distributions is in 5G wireless
+
+  networks with multi-connectivity, where users connect to their closest k base
+
+  stations. In this setting, it is important to know how many users a particular
+
+  base station serves, which gives the degree of that base station. To obtain
+
+  these degree distributions, we investigate the distribution of area sizes of the
+
+  k−th order Voronoi cells of B-points. 
+url_dataset: "#"
+url_project: ""
+publication_short: ""
+url_source: "#"
+url_video: "#"
+date: 2021-04-16T19:43:42.021Z
+url_slides: ""
+links:
+  - name: Custom Link
+    url: http://example.org
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)"
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides:
+publishDate: 2017-01-01T00:00:00Z
+url_poster: "#"
+url_code: "#"
+doi: ""
 ---
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+ 
