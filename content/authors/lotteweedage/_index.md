@@ -1,3 +1,8 @@
+---
+title: Lotte Weedage
+role: PhD candidate
+superuser: true
+---
 # Display name
 title: Lotte Weedage
 
